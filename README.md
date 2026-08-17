@@ -53,37 +53,37 @@ DNS and the target health status was verified.
 ## 📸 Screenshots
 
 ### VPC Architecture
-![VPC Architecture](01-vpc-resource-map.png)
+![VPC Architecture](architecture/01-vpc-resource-map.png)
 
 ### Bastion Host
-![Bastion Host](02-bastion-jump-host.png)
+![Bastion Host](architecture/02-bastion-jump-host.png)
 
 ### Private EC2 Instance - 1A
-![Private EC2 1A](03-application-server-private-1a.png)
+![Private EC2 1A](architecture/03-application-server-private-1a.png)
 
 ### Private EC2 Instance - 1B
-![Private EC2 1B](04-application-server-private-1b.png)
+![Private EC2 1B](architecture/04-application-server-private-1b.png)
 
 ### Target Group Health
-![Target Group Health](05-target-group-2-healthy.png)
+![Target Group Health](architecture/05-target-group-2-healthy.png)
 
 ### Load Balancer
-![Load Balancer](06-load-balancer.png)
+![Load Balancer](architecture/06-load-balancer.png)
 
 ### Application Working
-![Application Working](07-application-working.png)
+![Application Working](architecture/07-application-working.png)
 
 ### Security Group Rules
-![Security Group Rules](08-security-group-rules.png)
+![Security Group Rules](architecture/08-security-group-rules.png)
 
 ### Route Tables
-![Route Tables](09-route-tables.png)
+![Route Tables](architecture/09-route-tables.png)
 
 ### Load Balancer Health
-![Load Balancer Health](10-load-balancer-1-healthy-1-unhealthy.png)
+![Load Balancer Health](architecture/10-load-balancer-1-healthy-1-unhealthy.png)
 
 ### Load Balancer Application
-![Load Balancer Application](11-load-balancer-application-working.png)
+![Load Balancer Application](architecture/11-load-balancer-application-working.png)
 
 
 ## 📚 What I Learned
